@@ -1,2 +1,3 @@
 # sage-university-progect
-SageMath projects for different university courses – similar to Python but with extra math tools.
+This repository contains my SageMath projects for various university courses.
+Since Sage is built on top of Python, most of the code looks and behaves like standard Python, with additional functionality for symbolic math, number theory, graph theory, and more.
